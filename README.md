@@ -6,7 +6,7 @@ Practice setting up user accounts and authentication in a Node web app.
 
 Make sure you have Git and Node (v18) installed.
 
-1. Clone this repo and `cd` into the directory
+1. [Use this template](https://github.com/foundersandcoders/auth-challenge/generate), clone your copy, cd into it
 1. Run `npm install` to install all the dependencies
 1. Run `npm run seed` to seed the database with some example data
 1. Run `npm run dev` to start the server.  
