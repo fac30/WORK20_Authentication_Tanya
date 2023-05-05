@@ -5,6 +5,7 @@ function post(req, res) {
    * [3] Remove the session cookie
    * [4] Redirect back home
    */
+  res.status(500).send("");
 }
 
 module.exports = { post };
