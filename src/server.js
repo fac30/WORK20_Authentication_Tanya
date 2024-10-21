@@ -26,4 +26,5 @@ server.post("/log-out", logout.post);
 server.get("/confessions/:user_id", confessions.get);
 server.post("/confessions/:user_id", body, confessions.post);
 
+
 module.exports = server;
